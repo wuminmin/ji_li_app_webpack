@@ -15,7 +15,7 @@
     "echarts": "^4.2.1",
     "echarts-for-react": "^2.0.15-beta.0",
     "es6-promise": "^4.2.5",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-animated-router": "^0.1.12",
