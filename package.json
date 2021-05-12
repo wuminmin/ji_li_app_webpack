@@ -27,7 +27,7 @@
     "react-sweet-progress": "^1.1.2",
     "react-transition-group": "^2.4.0",
     "redux": "^4.0.1",
-    "swiper": "^4.4.1",
+    "swiper": "^6.5.1",
     "url-search-params-polyfill": "^5.0.0"
   },
   "devDependencies": {
